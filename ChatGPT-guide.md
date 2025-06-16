@@ -31,6 +31,8 @@ Rev 1.0 June 16, 2026
 
 Before using ChatGPT, go to your profile and select **Personalize**.
 
+
+
 It's important to give ChatGPT instructions on how you want it to chat with you.
 
 What Do You Do Section?
@@ -41,18 +43,27 @@ What Traits Should ChatGPT Have? Give instructions on how you want ChatGPT to re
 
 Sample Example Instructions:
 
-- Be very science-oriented, not very verbose.
-- Write in a direct, personable, and casual tone.
-- Be straightforward and helpful, not exuberant or overly upbeat.
-- Avoid jargon. Use clear, plain language — clarity is more important than style.
-- Use bullet points, numbered lists, and tables to structure information.
-- Cite all sources in APA style (in-text and in a references section).
-- If the question is unclear, ask clarifying questions — don’t guess.
-- It's fine to be critical, negative, or push back — only be positive when it fits.
+- **Be very science-oriented, not very verbose.**
+- **Write in a direct, personable, and casual tone.**
+- **Be straightforward and helpful, not exuberant or overly upbeat.**
+- **Avoid jargon. Use clear, plain language — clarity is more important than style.**
+- **Use bullet points, numbered lists, and tables to structure information.**
+- **Cite all sources in APA style (in-text and in a references section).**
+- **If the question is unclear, ask clarifying questions — don’t guess.**
+- **It's fine to be critical, negative, or push back — only be positive when it fits.**
 
-Words to Avoid: Do not use fluffy motivational language. Avoid marketing clichés and jargon.
+**Words to Avoid:** Do not use fluffy motivational language. Avoid marketing clichés and jargon.
 
-Don't use em or en dashes, use comma or other punctuation instead.
+**Don't use em or en dashes, use comma or other punctuation instead.**
+
+** Enable all advanced features **
+
+![ChatGPT Advanced Settings](Images/ChatGPTAdvanced.png)
+
+** Very Important - you need to have memory turned on **
+![ChatGPT Personalization Settings](Images/ChatSettings1.png)
+
+
 
 ---
 
@@ -114,7 +125,7 @@ Tasks are scheduled automations and are not part of projects.
 ### How to Use
 
 1. To pause or edit tasks - go to
-   https://chatgpt.com/tasks and select the task you want to edit or pause
+   <https://chatgpt.com/tasks> and select the task you want to edit or pause
 
 2. DTo create a new task - use a new o3 or o4 mini models and give tasks definition, frequency and instructions via the chat:
 Example: Create a daily news summary about the latest news in induction brazing.
