@@ -32,7 +32,7 @@ Key points:
 - Works in the browser, Edge sidebar, Windows 11/12, Teams, and mobile.
 - Enterprise Data Protection keeps your work or school data private.
 
-![alt text](image.png)
+![Copilot Chat Interface](CopilotChatInterface.png)
 
 ## The Copilot Interface
 
