@@ -1,4 +1,5 @@
 # ChatGPT Setup and Recommended Usage  
+
 Rev 1.0 June 16, 2026
 
 ---
@@ -32,10 +33,10 @@ Before using ChatGPT, go to your profile and select **Personalize**.
 
 It's important to give ChatGPT instructions on how you want it to chat with you.
 
-What Do You Do Section? 
+What Do You Do Section?
+What Do You Do Section?
 Describe your role, expertise, etc., so the answers can be tailored to you.
 Sample: Software Engineer, Project Manager, Business Owner.
-
 What Traits Should ChatGPT Have? Give instructions on how you want ChatGPT to respond to you.
 
 Sample Example Instructions:
@@ -50,6 +51,8 @@ Sample Example Instructions:
 - It's fine to be critical, negative, or push back — only be positive when it fits.
 
 Words to Avoid: Do not use fluffy motivational language. Avoid marketing clichés and jargon.
+
+Don't use em or en dashes, use comma or other punctuation instead.
 
 ---
 
@@ -89,8 +92,9 @@ Below is a table comparing Custom GPT and Projects and when to use each.
 | Tools (e.g., Python)   | No                                 | Yes (via Actions)                      |
 | Use Case Example       | Customer support bot               | Automation for financial analysis      |
 
-
+**
 **Key Difference:**  
+
 - **Custom GPTs** are for *tailored chatbots*.  
 - **Projects** are for *automating tasks or building logic-driven agents*.
 
@@ -105,22 +109,15 @@ When setting up your projects, you can add files (a document or a book you want 
 
 ## Using Tasks in ChatGPT
 
-Tasks let you create structured, multi-step workflows in the "Projects" section.
+Tasks are scheduled automations and are not part of projects.
 
 ### How to Use
 
-1. Open ChatGPT → Go to **Projects**
-2. Click **New Task**
-3. Define:
-   - Task Name
-   - Inputs (e.g., user prompt, file)
-   - Tools (Python, code interpreter, web access, etc.)
-4. Chain multiple tasks to automate a process
-5. Run the full workflow or step-by-step
+1. To pause or edit tasks - go to
+   https://chatgpt.com/tasks and select the task you want to edit or pause
 
-Examples of Using Tasks
-
-- Generate a report for last week's social media posts from Company A
+2. DTo create a new task - use a new o3 or o4 mini models and give tasks definition, frequency and instructions via the chat:
+Example: Create a daily news summary about the latest news in induction brazing.
 
 ## Contribution Instructions
 
@@ -136,4 +133,3 @@ If you want to improve this guide:
    git clone https://github.com/yourusername/chatgpt-setup-guide.git
    cd chatgpt-setup-guide
    ```
-
