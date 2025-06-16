@@ -9,6 +9,7 @@ Rev 1.0 June 16, 2026
 - [ChatGPT Setup and Recommended Usage](#chatgpt-setup-and-recommended-usage)
   - [Table of Contents](#table-of-contents)
   - [Personalize It](#personalize-it)
+    - [Enable all advanced features](#enable-all-advanced-features)
   - [Use Temporary Chat](#use-temporary-chat)
   - [General Chat Guidelines](#general-chat-guidelines)
   - [Specify the Desired Output Format](#specify-the-desired-output-format)
@@ -30,8 +31,6 @@ Rev 1.0 June 16, 2026
 ## Personalize It
 
 Before using ChatGPT, go to your profile and select **Personalize**.
-
-
 
 It's important to give ChatGPT instructions on how you want it to chat with you.
 
@@ -56,14 +55,12 @@ Sample Example Instructions:
 
 **Don't use em or en dashes, use comma or other punctuation instead.**
 
-** Enable all advanced features **
+### Enable all advanced features
 
-![ChatGPT Advanced Settings](Images/ChatGPTAdvanced.png)
+![ChatGPT Advanced Settings](Images/ChatGPTAdvnaced.png)
 
-** Very Important - you need to have memory turned on **
+**Very Important - you need to have memory turned on**
 ![ChatGPT Personalization Settings](Images/ChatSettings1.png)
-
-
 
 ---
 
@@ -127,7 +124,7 @@ Tasks are scheduled automations and are not part of projects.
 1. To pause or edit tasks - go to
    <https://chatgpt.com/tasks> and select the task you want to edit or pause
 
-2. DTo create a new task - use a new o3 or o4 mini models and give tasks definition, frequency and instructions via the chat:
+2. To create a new task - use a new o3 or o4 mini models and give tasks definition, frequency and instructions via the chat:
 Example: Create a daily news summary about the latest news in induction brazing.
 
 ## Contribution Instructions
